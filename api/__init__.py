@@ -8,9 +8,9 @@ Módulos incluidos:
 - api_module: Funciones para consultar y procesar datos de la API
 - ui_module: Funciones para la interfaz de usuario y presentación
 
-Autor: [Tu Nombre]
+Autor: [santiago cardona sierra]
 Universidad Tecnológica de Pereira
-Fecha: Marzo 2023
+Fecha: septiembre 2025
 """
 
 # Información del paquete
